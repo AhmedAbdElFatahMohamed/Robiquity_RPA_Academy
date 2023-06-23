@@ -1,9 +1,0 @@
-Hi bot,
- 
-Please find below the product item details.
- 
-Product Name: ex:Mouse pad
-Category: ex:Computers
- 
-Regards,
-Bot
